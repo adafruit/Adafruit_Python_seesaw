@@ -1,4 +1,5 @@
 from Adafruit_Seesaw import Seesaw
+import time
 
 BUTTON_RIGHT = 6
 BUTTON_DOWN  = 7
