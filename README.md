@@ -1,4 +1,9 @@
-# Adafruit_Python_seesaw
-seesaw helper IC driver for python
+# DEPRECATED LIBRARY  Adafruit_Python_seesaw
 
-Check out the [documentation](https://adafruit.github.io/Adafruit_Python_seesaw/classAdafruit__Seesaw_1_1seesaw_1_1Seesaw.html) for a listing and explanation of the available methods!
+This library has been deprecated!
+
+We are currently only supporting the circuitpython version of this library - it works great on Raspi/Linux and easier for us to maintain.
+
+we are leaving the code up for historical/research purposes but archiving the repository.
+
+check out the circuitpython seesaw library here! https://github.com/adafruit/Adafruit_CircuitPython_seesaw
